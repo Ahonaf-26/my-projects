@@ -1,0 +1,6 @@
+{
+  "name": "Ahonaf Abid Portfolio",
+  "description": "A cinematic, dark minimalist personal portfolio for Ahonaf Abid featuring selected work, editorial about section, animated toolbox, and Telegram-integrated contact dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
